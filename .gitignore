@@ -1,0 +1,8 @@
+.venv/
+config/auth-app/__pycache__/
+config/auth-app/migrations/__pycache__/
+config/config/__pycache__/
+config/frontend/__pycache__/
+config/frontend/migrations/__pycache__/
+config/node_modules/
+
